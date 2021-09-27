@@ -1,0 +1,137 @@
+﻿CZ_KM,DE_KM,EE_KM,LT_KM,LV_KM,PL_KM,SE_KM,SK_KM,COMPANY_LP,ADRESS_LP,COD_LP,CITY_LP,START_LOAD_DATA,START_LOAD_TIME,END_LOAD_DATA,END_LOAD_TIME,COMPANY_DP,ADRESS_DP,COD_DP,CITY_DP,START_DELIVERY_DATA,START_DELIVERY_TIME,END_DELIVERY_DATA,END_DELIVERY_TIME,VEHICLE_TYPE,BODY_TYPE,LOAD_UNLOAD_METHOD,EPALE,GOODS_TYPE,TEMP_MIN,TEMP_MAX,EURO,LDM,TONS,OTHER_COSTS,QTY_LOADS,QTY_DELIVERIES,SOURCE,PAYMENT_TERM,CARGO_VALUE_EURO
+169.30,,,,,,,74.00,,,CZ57001,,31.03.2021,16:00:00,31.03.2021,,,,SK82106,,01.04.2021,08:00:00,01.04.2021,08:00:00,"Rigid truck, Articulated truck",Refrigerator,Back,,Other,,,350.00,13.60,6.00,,1.00,1.00,,,
+,,,,,378.70,,,,,PL66470,,01.04.2021,06:00:00,01.04.2021,,,,PL49318,,02.04.2021,02:00:00,02.04.2021,02:00:00,"Rigid truck, Articulated truck","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,Other,,,324.40,13.60,22.00,,1.00,1.00,,,
+206.10,,,,,164.40,,,,,CZ69123,,02.04.2021,06:00:00,02.04.2021,,,,PL46043,,06.04.2021,06:00:00,06.04.2021,06:00:00,"Rigid truck, Articulated truck","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,Other,,,250.00,13.60,2.30,,1.00,1.00,,,
+478.00,,,,,244.50,,,,,PL98405,,06.04.2021,10:00:00,06.04.2021,,,,CZ39002,,07.08.2021,,08.08.2021,,"Rigid truck, Articulated truck","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,980.46,13.60,22.00,,1.00,6.00,,,
+382.30,,,,,136.00,,,,,PL41800,,07.04.2021,17:00:00,07.04.2021,,,,PL41700,,08.08.2021,,08.08.2021,,"Rigid truck, Articulated truck","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,550.00,13.60,22.00,,3.00,3.00,,,
+,242.60,,,,251.60,,,,,DE06749,,08.04.2021,,08.04.2021,,,,PL57500,,09.04.2021,,13.04.2021,,"Rigid truck, Articulated truck","Tautliner, Mega, Curtain",Back,,,,,350.00,13.60,24.00,,1.00,1.00,,,
+,28.60,,,,473.60,,,,,DE15890,,08.04.2021,,08.04.2021,,,,PL00001,,09.04.2021,,09.04.2021,,"Rigid truck, Articulated truck",Curtain,Back,,,,,400.00,13.60,24.00,,1.00,1.00,,,
+,233.80,,,,328.70,,,,,DE07545,,08.04.2021,,08.04.2021,,,,PL41700,,09.04.2021,,09.04.2021,22:00:00,Articulated truck,"Refrigerator, Curtain",Back,,,,,700.00,13.60,10.00,,1.00,1.00,,,
+,640.30,,,,397.80,,,,,DE44787,,08.04.2021,,08.04.2021,,,,PL43300,,08.04.2021,,08.04.2021,,"Rigid truck, Articulated truck",Curtain,Back,,,,,1400.00,13.60,24.00,,1.00,1.00,,,
+,353.40,,,,380.50,,,,,DE99755,,08.04.2021,,08.04.2021,,,,PL43410,,09.04.2021,,09.04.2021,,"Rigid truck, Articulated truck",Curtain,Back,,,,,550.00,13.60,10.00,,1.00,1.00,,,
+146.10,141.40,,,,,,,,,CZ25163,,08.04.2021,,08.04.2021,,,,DE04347,,09.04.2021,,09.04.2021,,"Rigid truck, Articulated truck","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,380.00,13.60,15.00,,1.00,1.00,,,
+,,,,,682.10,107.70,,,,PL43150,,09.04.2021,20:00:00,09.04.2021,,,,SE26538,,12.04.2021,08:00:00,12.04.2021,08:00:00,"Rigid truck, Articulated truck",Refrigerator,Back,,,,,1570.00,13.60,22.50,-298.00,1.00,1.00,,,
+381.00,81.50,,,,,,131.30,,,DE01623,,09.04.2021,,09.04.2021,,,,SK92601,,12.04.2021,06:00:00,12.04.2021,12:00:00,"Rigid truck, Articulated truck",Refrigerator,Back,,,,,600.00,13.60,21.75,,1.00,1.00,,,
+,686.60,,,,36.40,,,,,PL59800,,09.04.2021,,09.04.2021,,,,DE53881,,12.04.2021,,13.04.2021,,"Rigid truck, Articulated truck","Thermo, Curtain",Back,,,,,750.00,13.60,18.00,,1.00,1.00,,,
+,620.80,,,,174.10,,,,,PL67100,,09.04.2021,,10.04.2021,,,,DE86470,,12.04.2021,,12.04.2021,,"Rigid truck, Articulated truck","Thermo, Tautliner, Refrigerator, Curtain",Back,,,,,850.00,13.60,15.00,,1.00,1.00,,,
+,586.40,,,,339.10,,,,,DE64283,,09.04.2021,,09.04.2021,,,,PL40001,,12.04.2021,,12.04.2021,,"Rigid truck, Articulated truck","Thermo, Refrigerator, Curtain",Back,,,,,700.00,13.60,20.00,,1.00,1.00,,,
+,391.70,,,,365.00,,,,,DE38685,,09.04.2021,,09.04.2021,,,,PL41100,,12.04.2021,,12.04.2021,,"Rigid truck, Articulated truck",Curtain,Back,,,,,500.00,13.60,24.00,,1.00,1.00,,,
+,615.90,,,,178.30,,,,,PL62023,,09.04.2021,,09.04.2021,,,,DE94315,,13.04.2021,,13.04.2021,,"Rigid truck, Articulated truck","Thermo, Curtain",Back,,,,,820.00,13.60,22.00,,1.00,1.00,,,
+,469.40,,,,174.10,,,,,PL67100,,09.04.2021,,10.04.2021,,,,DE97199,,12.04.2021,,12.04.2021,,"Rigid truck, Articulated truck","Thermo, Tautliner, Refrigerator, Curtain",Back,,,,,700.00,13.60,15.00,,1.00,1.00,,,
+,571.60,,,,279.80,,,,,DE26954,,09.04.2021,14:30:00,09.04.2021,14:30:00,,,PL47316,,12.04.2021,08:00:00,13.04.2021,16:00:00,"Rigid truck, Articulated truck",Curtain,Back,,,,,800.00,13.60,24.70,,1.00,1.00,,,
+70.20,,,,,167.90,,188.30,,,SK90301,,12.04.2021,08:00:00,12.04.2021,,,,PL42224,,13.04.2021,08:00:00,13.04.2021,15:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,240.00,13.60,15.00,,1.00,1.00,,,
+,,,,,594.30,,,,,PL72300,,12.04.2021,08:00:00,13.04.2021,,,,PL87400,,14.04.2021,,14.04.2021,,"Rigid truck, Articulated truck
+",Refrigerator,Back,,,,,450.00,13.60,22.50,,1.00,3.00,,,
+,495.30,,,,178.30,,,,,PL62023,,12.04.2021,,12.04.2021,,,,DE91330,,13.04.2021,,13.04.2021,,"Rigid truck, Articulated truck","Thermo, Curtain",Back,,,,,820.00,13.60,22.00,,1.00,1.00,,,
+,299.60,,,,,,,,,DE33106,,12.04.2021,,12.04.2021,,,,DE97318,,12.04.2021,,12.04.2021,,Articulated truck,Flatbed truck,Back,,,,,600.00,13.60,10.57,,1.00,1.00,,,
+38.70,,,,,282.90,,,,,PL42512,,13.04.2021,12:00:00,13.04.2021,,,,CZ50312,,14.04.2021,07:00:00,14.04.2021,07:00:00,"Rigid truck, Articulated truck
+",Refrigerator,Back,,,,,425.00,13.60,10.00,,1.00,1.00,,,
+,518.80,,,,351.10,,,,,DE74423,,14.04.2021,,14.04.2021,,,,PL41200,,15.04.2021,,15.04.2021,,"Rigid truck, Articulated truck",Curtain,Back,,,,,550.00,13.60,22.00,,1.00,1.00,,,
+168.90,,,,,,,75.00,,,CZ56802,,14.04.2021,,14.04.2021,,,,SK83103,,15.04.2021,06:30:00,15.04.2021,07:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,330.00,13.60,15.00,,1.00,1.00,,,
+203.30,,,,,32.50,,,,,CZ69701,,15.04.2021,,15.04.2021,,,,PL44240,,16.04.2021,,16.04.2021,,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,164.65,13.60,22.00,,1.00,1.00,,,
+70.70,,,,,338.20,,140.80,,,PL99300,,15.04.2021,10:00:00,15.04.2021,,,,SK03101,,16.04.2021,08:00:00,16.04.2021,15:30:00,"Rigid truck, Articulated truck
+",Refrigerator,Back,,,,,650.00,13.60,22.00,,1.00,1.00,,,
+,,,,,25.00,,,,,PL44240,,16.04.2021,,16.04.2021,,,,PL43215,,16.04.2021,,16.04.2021,,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,54.88,13.60,22.00,,1.00,1.00,,,
+47.10,,,,,582.90,107.70,,,,CZ74773,,16.04.2021,14:00:00,16.04.2021,,,,SE26538,,19.04.2021,07:00:00,19.04.2021,13:00:00,"Rigid truck, Articulated truck
+",Refrigerator,Back,,,,,1450.00,13.60,22.50,,1.00,1.00,,,
+245.90,,,,,320.10,,,,,PL43608,,20.04.2021,,20.04.2021,,,,CZ26901,,20.04.2021,13:00:00,20.04.2021,13:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,600.00,13.60,18.00,,1.00,1.00,,,
+92.60,373.00,,,,18.80,,,,,PL70651,,20.04.2021,08:00:00,20.04.2021,,,,CZ27801,,21.04.2021,07:00:00,21.04.2021,11:00:00,"Rigid truck, Articulated truck
+",Refrigerator,Back,33.00,Frozen Food,-22.00,-22.00,500.00,13.60,22.50,,1.00,1.00,,,
+147.60,,,,,530.70,,,,,CZ19821,,21.04.2021,06:00:00,21.04.2021,,,,PL07202,,22.04.2021,,22.04.2021,,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,Drinks,,,400.00,13.60,22.50,,1.00,1.00,,,
+,,,,,432.40,,377.30,,,PL17300,,22.04.2021,,22.04.2021,,,,SK99128,,26.04.2021,,26.04.2021,,"Rigid truck, Articulated truck
+",Refrigerator,Back,32.00,Frozen Food,-22.00,-22.00,950.00,13.60,20.00,,1.00,1.00,,,
+217.30,,,,,647.60,,,,,CZ26901,,22.04.2021,04:00:00,22.04.2021,,,,PL21100,,23.04.2021,11:00:00,23.04.2021,11:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,,,,550.00,13.60,9.00,,1.00,1.00,,,
+,,,,,821.80,833.60,,,,PL43392,,07.09.2020,12:00:00,07.09.2020,,,,SE921 92,,10.09.2020,10:00:00,10.09.2020,10:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,,,,2400.00,13.60,8.50,-643.00,1.00,1.00,,,
+,,,,,,975.10,,,,SE91831,,10.09.2020,,10.09.2020,,,,SE57002,,11.09.2020,,11.09.2020,,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,,,,550.00,13.60,25.00,,1.00,1.00,,,
+,,,,,354.90,166.90,,,,SE57402,,14.09.2020,13:00:00,14.09.2020,13:00:00,,,PL92410,,16.09.2020,07:45:00,16.09.2020,07:45:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,,,,400.00,13.60,22.00,-468.00,1.00,1.00,,,
+,,,,,204.80,,,,,PL93231,,16.09.2020,,16.09.2020,,,,PL44102,,17.09.2020,,17.09.2020,,"Rigid truck, Articulated truck
+",Curtain,Back,0.00,Other,,,142.00,13.60,23.80,,1.00,1.00,,,
+,,,,,727.10,415.40,,,,PL43378,,18.09.2020,,18.09.2020,,,,SE53237,,22.09.2020,,22.09.2020,,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,Other,,,1700.00,13.60,22.00,-298.00,1.00,1.00,,,
+,,,,,,492.40,,,,SE55652,,23.09.2020,20:00:00,23.09.2020,22:00:00,,,SE80291,,24.09.2020,05:00:00,24.09.2020,,"Rigid truck, Articulated truck
+","Box, Coil trough, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,Other,,,560.00,13.60,22.00,,1.00,1.00,,,
+,,,,,,895.00,,,,SE82041,,24.09.2020,,24.09.2020,,,,SE26494,,25.09.2020,,25.09.2020,,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,575.00,13.60,24.00,,1.00,1.00,,,
+,,,,,183.70,182.80,,,,SE24193,,29.09.2020,07:00:00,29.09.2020,09:00:00,,,PL87162,,29.09.2020,08:00:00,29.09.2020,15:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,297.00,13.60,24.80,-298.00,1.00,1.00,,,
+18.40,,,,,442.90,,,,,PL09300,,29.09.2020,08:00:00,29.09.2020,14:00:00,,,CZ73301,,30.09.2020,06:00:00,30.09.2020,22:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,328.00,13.60,22.00,,1.00,1.00,,,
+,469.40,,,,364.40,,,,,PL43150,,26.10.2020,15:30:00,26.10.2020,15:30:00,,,DE97199,,27.10.2020,20:00:00,27.10.2020,20:00:00,"Rigid truck, Articulated truck
+",Refrigerator,Back,0.00,Yoghurt,1.00,5.00,950.00,13.60,23.50,,1.00,1.00,,,
+381.00,52.70,,,,,,50.20,,,DE01665,,23.10.2020,03:00:00,23.10.2020,05:00:00,,,SK90055,,23.10.2020,,23.10.2020,12:30:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,600.00,13.60,7.00,,1.00,1.00,,,
+,469.40,,,,364.40,,,,,PL43150,,02.11.2020,12:30:00,02.11.2020,12:30:00,,,DE97199,,03.11.2020,09:00:00,03.11.2020,09:00:00,"Rigid truck, Articulated truck
+",Refrigerator,Back,0.00,Yoghurt,1.00,5.00,950.00,13.60,23.50,,1.00,1.00,,,
+,146.80,,,,446.40,,,,,DE12057,,13.11.2020,11:00:00,13.11.2020,13:00:00,,,PL31982,,16.11.2020,10:00:00,16.11.2020,10:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,340.00,13.60,20.00,,1.00,1.00,,,
+,281.50,,,,623.00,,,,,DE06667,,04.12.2020,07:00:00,04.12.2020,15:00:00,,,PL21560,,07.12.2020,,07.12.2020,,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,550.00,13.60,22.00,,1.00,1.00,,,
+,469.40,,,,364.40,,,,,PL43150,,07.12.2020,12:00:00,07.12.2020,12:00:00,,,DE97199,,08.12.2020,19:00:00,08.12.2020,19:00:00,"Rigid truck, Articulated truck
+",Refrigerator,Back,0.00,Yoghurt,1.00,5.00,950.00,13.60,23.50,,1.00,1.00,,,
+,572.10,,,,,,,,,DE28237,,12.06.2018,12:00:00,12.06.2018,14:00:00,,,DE67480,,13.06.2018,06:00:00,13.06.2018,19:00:00,"Rigid truck, Articulated truck
+",Coil trough,Top,0.00,Steel,,,570.00,13.60,20.77,,1.00,1.00,,,
+,591.30,,,,366.70,,,,,PL41308,,04.01.2019,07:00:00,04.01.2018,07:00:00,,,DE89231,,08.01.2018,07:00:00,08.01.2018,13:00:00,"Rigid truck, Articulated truck
+","Coil trough, Tautliner, Mega, Curtain",Top,0.00,Steel,,,950.00,13.60,19.92,,1.00,1.00,,,
+83.30,154.10,,,,415.60,,,,,PL30001,,27.08.2018,10:00:00,27.08.2018,10:00:00,,,CZ27324,,28.08.2018,07:00:00,28.08.2018,15:00:00,"Rigid truck, Articulated truck
+",Coil trough,Top,0.00,Steel,,,570.00,13.60,24.00,,1.00,1.00,,,
+,539.50,,,,375.50,,,,,PL41303,,07.01.2019,07:00:00,07.01.2019,21:00:00,,,DE73457,,08.01.2019,07:00:00,08.01.2019,15:00:00,"Rigid truck, Articulated truck
+","Coil trough, Tautliner, Mega, Curtain",Top,0.00,Steel,,,800.00,13.60,24.00,,1.00,1.00,,,
+,634.60,,,,,,,,,DE66424,,27.08.2018,07:00:00,27.08.2018,15:00:00,,,DE21107,,28.08.2018,07:00:00,28.08.2018,14:00:00,"Rigid truck, Articulated truck
+","Coil trough, Tautliner, Mega, Curtain",Top,0.00,Steel,,,750.00,13.60,22.08,,1.00,1.00,,,
+,616.50,,,,,,,,,DE71254,,11.05.2018,13:00:00,11.05.2018,13:00:00,,,DE26135,,14.05.2018,,14.05.2018,05:00:00,"Rigid truck, Articulated truck
+",,Back,0.00,Other,,,450.00,13.60,22.00,,1.00,1.00,,,
+,573.00,,,,,,,,,DE84489,,19.07.2018,13:00:00,19.07.2018,14:00:00,,,DE34587,,20.07.2018,07:00:00,20.07.2020,14:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,580.00,13.60,15.60,,1.00,1.00,,,
+197.90,332.90,,,,,,,,,DE64823,,22.06.2018,13:00:00,22.06.2018,16:00:00,,,CZ25101,,25.06.2018,08:00:00,25.06.2018,12:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,450.00,13.60,23.00,,1.00,1.00,,,
+,253.30,,,,428.20,,,,,DE39288,,19.07.2018,,19.07.2018,,,,PL42300,,23.07.2018,,23.07.2018,,"Rigid truck, Articulated truck
+","Coil trough, Tautliner, Mega, Curtain","Top, Side",0.00,Other,,,408.20,13.60,24.01,,1.00,1.00,,,
+,319.90,,,,440.20,,,,,DE19357,,07.05.2018,,07.05.2018,,,,PL30319,,07.05.2018,08:00:00,07.05.2018,08:00:00,"Rigid truck, Articulated truck
+","Coil trough, Tautliner, Mega, Curtain","Top, Side",0.00,Other,,,580.00,13.60,24.00,,1.00,1.00,,,
+70.20,,,,,167.90,,205.80,,,SK90301,,12.04.2021,08:00:00,12.04.2021,15:00:00,,,PL42224,,13.04.2021,08:00:00,13.04.2021,15:00:00,"Rigid truck, Articulated truck
+","Box, Coil trough, Tautliner, Mega, Curtain",Back,0.00,Other,,,240.00,13.60,15.00,,1.00,1.00,,,
+275.30,119.90,,,,,,,,,CZ25090,,28.04.2021,,28.04.2021,,,,DE99867,,29.04.2021,,29.04.2021,,"Rigid truck, Articulated truck
+",Tautliner,"Back, Side",0.00,Other,,,600.00,13.60,24.00,,1.00,1.00,,,
+,518.80,,,,405.50,,,,,DE35510,,26.04.2021,,26.04.2021,,,,PL97300,,27.04.2021,,28.04.2021,,"Rigid truck, Articulated truck
+",Tautliner,"Back, Side",0.00,Other,,,650.00,13.60,15.00,,1.00,1.00,,,
+145.60,,,,,231.80,,,,,CZ68603,,27.04.2021,,27.04.2021,,,,PL50075,,28.04.2021,,28.04.2021,,"Rigid truck, Articulated truck
+",Tautliner,"Back, Side",0.00,Other,,,250.00,13.60,24.00,,1.00,1.00,,,
+,238.30,,,,213.40,,,,,PL63025,,26.04.2021,,26.04.2021,,,,DE01662,,27.04.2021,,27.04.2021,,"Rigid truck, Articulated truck
+","Tautliner, Refrigerator, Curtain",Back,0.00,Other,,,450.00,13.60,14.00,,1.00,1.00,,,
+340.60,,,,,150.40,,,,,PL41300,,27.04.2021,,29.04.2021,,,,CZ19017,,28.04.2021,,30.04.2021,,"Rigid truck, Articulated truck
+","Tautliner, Refrigerator, Curtain","Back, Side",0.00,Other,,,580.00,13.60,24.00,,1.00,1.00,,,
+,,,,,682.10,107.70,,,,PL43150,,30.04.2021,10:30:00,30.04.2021,10:30:00,,,SE26538,,04.05.2021,08:00:00,04.05.2021,08:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,0.00,Yoghurt,2.00,6.00,1570.00,13.60,22.50,-300.00,1.00,1.00,,,
+197.50,,,,,601.10,,36.40,,,PL70651,,05.05.2021,07:00:00,05.05.2021,16:00:00,,,SK91501,,07.05.2021,07:00:00,07.05.2021,16:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,22.00,Frozen Food,-18.00,-18.00,880.00,13.60,14.00,,1.00,1.00,,,
+70.20,,,,,386.90,,205.80,,,SK90301,,06.05.2021,,06.05.2021,15:00:00,,,PL62080,,07.05.2021,,07.05.2021,,"Rigid Truck, Articulated Truck,",Refrigerator,Back,0.00,Food,4.00,20.00,500.00,13.60,22.00,,1.00,1.00,,,
+,,,,,429.60,,,,,PL62052,,07.05.2021,,05.05.2021,23:00:00,,,PL32085,,10.05.2021,08:30:00,05.05.2021,08:30:00,"Rigid Truck, Articulated Truck,","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,0.00,Food,,,272.93,13.60,22.00,,1.00,1.00,,,
+303.70,,,,,204.70,,,,,PL40386,,10.05.2021,17:30:00,07.05.2021,17:30:00,,,CZ25267,,11.05.2021,16:00:00,11.05.2021,16:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,0.00,Margarine,2.00,7.00,600.00,13.60,22.00,,1.00,1.00,,,
+139.50,,,,,530.80,328.80,,,,CZ25101,,14.05.2021,15:00:00,14.05.2021,15:00:00,,,SE44361,,17.05.2021,13:00:00,17.05.2021,13:00:00,"Rigid Truck, Articulated Truck,","Thermo, Refrigerator",Back,0.00,Other,15.00,15.00,1500.00,13.60,22.00,-300.00,1.00,1.00,,,
+,,,,,263.10,,,,,PL72602,,18.05.2021,08:00:00,18.05.2021,10:00:00,,,PL89620,,18.05.2021,08:00:00,18.05.2021,20:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,0.00,Frozen Fish,-20.00,-18.00,242.83,13.60,22.00,,1.00,1.00,,,
+,,,,,138.90,,,,,PL85846,,19.05.2021,10:00:00,19.05.2021,10:00:00,,,PL61017,,19.05.2021,21:00:00,19.05.2021,21:00:00,"Rigid Truck, Articulated Truck,","Tautliner, Box, Frigo",Back,0.00,Other,,,160.00,13.60,16.50,,1.00,1.00,,,
+,,,,,228.80,,,,,PL62080,,20.05.2021,06:00:00,20.05.2021,06:00:00,,,PL30740,,20.05.2021,14:00:00,20.05.2021,14:00:00,"Rigid Truck, Articulated Truck,","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,17.00,Food,,,305.31,13.60,13.00,,1.00,1.00,,,
+204.70,,,,,229.00,,,,,PL44100,,24.05.2021,09:00:00,24.05.2021,09:00:00,,,CZ25267,,25.05.2021,08:00:00,25.05.2021,08:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,0.00,Margarine,7.00,7.00,580.00,13.60,21.00,,1.00,1.00,,,
+139.50,,,,,530.80,328.80,,,,CZ25101,,25.05.2021,14:00:00,25.05.2021,14:00:00,,,SE44361,,27.05.2021,10:00:00,27.05.2021,10:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,0.00,Other,15.00,18.00,1500.00,13.60,22.00,-300.00,1.00,1.00,,,
+,,,,,316.50,309.10,,,,PL72100,,27.05.2021,09:00:00,27.05.2021,12:00:00,,,SE43533,,31.05.2021,08:00:00,31.05.2021,15:00:00,"Rigid Truck, Articulated Truck,","Tautliner, Refrigerator",Back,0.00,Wallpapers,,,1300.00,13.60,5.75,-300.00,1.00,1.00,,,
+,,,,,276.60,303.70,,,,PL78300,,01.06.2021,12:00:00,01.06.2021,14:00:00,,,SE40126,,03.06.2021,08:00:00,03.06.2021,15:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,,Frozen Food,-28.00,-21.00,1300.00,13.60,22.00,-300.00,,,,,
+,,,,,403.10,,,,,PL78650,,03.06.2021,11:00:00,03.06.2021,11:00:00,,,PL59222,,04.06.2021,10:45:00,04.06.2021,10:45:00,"Rigid Truck, Articulated Truck,",Tautliner,Back,,Water,,,279.64,13.60,20.33,,,,,,
+204.70,,,,,303.60,,,,,PL40386,,14.06.2021,,14.06.2021,15:52:00,,,CZ25267,,15.06.2021,15:52:00,15.06.2021,,"Rigid Truck, Articulated Truck,",Refrigerator,Back,,Margarine,2.00,7.00,600.00,13.60,22.00,,,,,,
+275.30,,,,,,,451.90,,,CZ16000,,16.06.2021,08:00:00,16.06.2021,14:00:00,,,SK98414,,17.06.2021,08:00:00,17.06.2021,14:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,,Frozen,-20.00,-20.00,600.00,13.60,22.00,,1.00,2.00,,,
+47.10,,,,,582.90,107.70,,,,CZ74773,,22.06.2021,21:00:00,22.06.2021,21:00:00,,,SE26538,,25.06.2021,07:00:00,25.06.2021,13:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,,Bisquits,11.00,19.00,1450.00,13.60,22.50,-300.00,1.00,1.00,,,
+,,,179.00,,889.80,,,,,PL73110,,25.06.2021,,25.06.2021,,,,LT21401,,28.06.2021,,28.06.2021,,"Rigid Truck, Articulated Truck,","Refrigerator, Tautliner",Back,,,,,800.00,13.60,19.00,,1.00,1.00,,,
+,,,169.20,,577.80,,,,,LT25121,,28.06.2021,,28.06.2021,,,,PL37111,,29.06.2021,,29.06.2021,,"Rigid Truck, Articulated Truck,","Refrigerator, Tautliner",Back,,,,,400.00,13.60,22.00,,1.00,1.00,,,
+123.50,,,,,593.40,,,BISPOL sp. z o.o,Głuchów 573,PL37100,Łańcut,29.06.2021,,29.06.2021,,,,CZ29493,ČACHOVICE,30.06.2021,,30.06.2021,,"Rigid Truck, Articulated Truck,",,Back,,"Heaters, refills, candles",,,750.00,13.60,22.00,,1.00,1.00,,,
+,,195.60,292.60,202.30,578.70,,,,,PL35234,,29.06.2021,,29.06.2021,,,,EE11415,,01.07.2021,,01.07.2021,,"Rigid Truck, Articulated Truck,",,Back,,ICE CREAM,-25.00,25.00,1400.00,13.60,22.00,,2.00,2.00,1.00,,
+15.50,,,,,474.90,95.50,,KASPER KOVO,Elektrárenská 390,CZ54101,Trutnov,30.06.2021,,30.06.2021,,,,SE25218,Helsinborg,02.07.2021,,02.07.2021,,"Rigid Truck, Articulated Truck,","Box, Refrigerator",Back,,,,,1400.00,13.60,22.00,,1.00,1.00,1.00,60.00,
+102.60,,,,,261.30,,,Aryzta,Piekarnicza 2,PL58150,Piekarnicza 2,01.07.2021,,01.07.2021,,KAUFLAND,Tynecka 65,CZ77900,Olomouc,01.07.2021,,01.07.2021,,"Rigid Truck, Articulated Truck,",Refrigerator,Back,33.00,,13.00,17.00,400.00,13.60,22.00,,1.00,1.00,0.00,60.00,
+182.40,,,,,287.10,,5.70,Grafobal a.s.,Čulenova 54,SK90901,Skalica,02.07.2021,10:00:00,02.07.2021,10:00:00,,Sosnowiec-Pienki 14,PL95010,Stryków,05.07.2021,,05.07.2021,,"Rigid Truck, Articulated Truck,","Box, Thermo, Tautliner, Mega, Refrigerator, Curtain",Back,,,,,340.00,13.60,22.00,,1.00,1.00,0.00,60.00,
+,,,269.50,86.20,362.70,,,JAS-FBG S.A.,Ul. Południowa 2,PL05850,Oltarzew,05.07.2021,10:00:00,05.07.2021,12:00:00,LIDL Logistic center Riga,Dzelzavas iela 131,LV1084,RIGA,06.07.2021,12:00:00,06.07.2021,12:00:00,"Rigid Truck, Articulated Truck,",Refrigerator,Back,,HIGIENIC ARTICLES,,,650.00,13.60,22.50,,1.00,1.00,0.00,45.00,50000.00
